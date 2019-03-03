@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "811786188148",
+    "firebase_url": "https://sf-hacks-19.firebaseio.com",
+    "project_id": "sf-hacks-19",
+    "storage_bucket": "sf-hacks-19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811786188148:android:b31fa81130da3f94",
+        "android_client_info": {
+          "package_name": "com.Mindful.Mindfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811786188148-vkpt1u03skdml3tht52e3dkccq9jv2ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYT9kLTcgNLoRZLnLs3-EcggPI7aYHXLo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
